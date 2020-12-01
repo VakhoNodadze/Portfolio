@@ -46,7 +46,7 @@ export const projectsData = [
     info: `Created a sudoku game from scratch. Used custom algorithms. It generate random numbers and start filling the board following sudoku rules.
       If there is a duplicate in row, column or the box(3x3), it fill generate another random number and try that. After filling the board, it backtracks, deleting
       numbers from cells randomly, but only leaving one possible win scenario`,
-    info2: `Player can choose different difficulty from easy to hard. Player can restart the game or just solve it with one click. If he/she breaks the rules, the 
+    info2: `Player can choose different difficulty from easy to hard. Player can restart the game. If he/she breaks the rules, the 
       duplicate numbers will go red.`,
     url: 'https://vakhonodadze.github.io/Sudoku/',
     repo: 'https://github.com/VakhoNodadze/Sudoku', // if no repo, the button will not show up
