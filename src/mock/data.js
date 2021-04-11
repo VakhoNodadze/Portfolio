@@ -12,14 +12,14 @@ export const headData = {
 export const heroData = {
   title: "",
   name: "Vakhtang Nodadze",
-  subtitle: `I'm a FullStack Developer.`,
+  subtitle: `I'm a Front-End Developer.`,
   cta: "",
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: "profile.jpg",
-  paragraphOne: `I am a FullStack MERN developer with over 3 years of experience. While I am proficient in both stacks, my expertise is in building scalable 
+  paragraphOne: `I am a Front-End developer with 4 years of experience. While I am efficient in both stacks, my expertise is in building scalable 
     ReactJS applications with the best practices available. My passion is developing as efficient, maintainable and clean code as possible.`,
   paragraphTwo: `I thrive in new and uncharted waters. While I have accumulated quite a bit of knowledge, I am always ready to learn new things from people more
     experienced than me. I\'ve mostly worked in small startups up to 10-15 people, which gave me good appreciation for teamwork and skyrocketed my knowledge in 
@@ -27,7 +27,7 @@ export const aboutData = {
   paragraphThree:
     "I am a hard-worker, a passionate and a goal-driven person, who loves what he does and is always looking for better way to do it.",
   resume:
-    "https://drive.google.com/file/d/1I23cnubBE6aKg48lxrqWzabkYOe03eUX/view?usp=sharing", // if no resume, the button will not show up
+    "https://drive.google.com/drive/folders/1b9rp1LFYJvGkiU2Q-DG6iOQpBcUCpbyT", // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
