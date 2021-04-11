@@ -27,7 +27,7 @@ export const aboutData = {
   paragraphThree:
     "I am a hard-worker, a passionate and a goal-driven person, who loves what he does and is always looking for better way to do it.",
   resume:
-    "https://drive.google.com/drive/folders/1b9rp1LFYJvGkiU2Q-DG6iOQpBcUCpbyT", // if no resume, the button will not show up
+    "https://drive.google.com/file/d/1I23cnubBE6aKg48lxrqWzabkYOe03eUX/view?usp=sharing", // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
